@@ -1,5 +1,5 @@
 
-Projet de visualiastion de courbes et de surfaces de Bézier selon différents éclairages (lambertien simple, modèle de réflectance à microfacette, normale interpolée) avec openGL.
+Projet de visualiastion de courbes et de surfaces de Bézier selon différents éclairages (lambertien simple, modèle de réflectance à microfacette, normale interpolée) avec OpenGL.
 
 
 # Pour compiler:
